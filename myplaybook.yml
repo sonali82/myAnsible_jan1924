@@ -2,7 +2,7 @@
 - hosts: all
   become: yes 
   tasks:
-  - name: I want to install apache2 on ubuntu node 
+  - name: I want to install tree on ubuntu node 
     apt:
-     name: apache2 
+     name: tree
      state: present 

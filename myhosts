@@ -12,5 +12,10 @@
  [myDBinstances]
 
  172.31.1o.2
-172.31.4.8
+ 172.31.4.8
+
+[mywebservers:vars]
+keys=value
+myjavapacheonubuntu = apache222
+myjavapacheonamazon = httpd
 

@@ -3,4 +3,4 @@ keys: value
 mywebpackonubuntu : apache2
 mywebpackonamazon : httpd
 myjavapackonubuntu: openjdk-8-jdk
-myjavapackonamazon: java-1.8.0-amazon-corretto
+myjavapackonredhat: java-1.8.0-amazon-corretto

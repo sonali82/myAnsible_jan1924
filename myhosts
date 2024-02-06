@@ -14,8 +14,4 @@
  172.31.1o.2
  172.31.4.8
 
-[mywebservers:vars]
-keys=value
-myjavapacheonubuntu = apache2
-myjavapacheonamazon = httpd
 

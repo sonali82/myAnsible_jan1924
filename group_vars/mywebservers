@@ -1,5 +1,7 @@
 ---
 keys: value
-myjavapacheonubuntu : apache2
-myjavapacheonamazon : httpd
+mywebpackonubuntu : apache2
+mywebpackonamazon : httpd
+myjavapackonubuntu: openjdk-11-jdk
+myjavapackonamazon: java-11-openjdk
 

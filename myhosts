@@ -16,6 +16,6 @@
 
 [mywebservers:vars]
 keys=value
-myjavapacheonubuntu = apache222
+myjavapacheonubuntu = apache2
 myjavapacheonamazon = httpd
 

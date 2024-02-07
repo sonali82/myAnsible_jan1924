@@ -1,0 +1,7 @@
+---
+- name: I want to creat user
+  user:
+   name: tomcat
+   shell: /bin/false
+   home: /opt/tomcat
+   state: present
